@@ -27,7 +27,7 @@ const usuarios = [
     imagens: [
       "https://i.ibb.co/4R2JB4Ts/02098892250-parte-1.png",
       "https://i.ibb.co/G4vSGVM6/02098892250-parte-2.png",
-      "https://i.imgur.com/FFFFF.png"
+      "https://i.ibb.co/zVc526Kf/qr-code.png"
     ]
   },
   
